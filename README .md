@@ -1,3 +1,4 @@
+
 # 莊舒伃的個人網頁
 
 ## 1. 基本資料
@@ -13,8 +14,7 @@
 
 📷 **個人照片：**
 <br>
-<img src="image/image1.jpeg" alt="個人照片" width="300"/>
-
+<img width="736" height="736" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/5576ebd3-a02f-4663-8ad0-4fa45285ee9d" />
 ---
 
 ## 2. 關於我 About Me
